@@ -1,0 +1,16 @@
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\bin\Debug\net8.0-windows\iCalc.exe
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\bin\Debug\net8.0-windows\iCalc.deps.json
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\bin\Debug\net8.0-windows\iCalc.runtimeconfig.json
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\bin\Debug\net8.0-windows\iCalc.dll
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\bin\Debug\net8.0-windows\iCalc.pdb
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.Form1.resources
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.csproj.GenerateResource.cache
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.AssemblyInfoInputs.cache
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.AssemblyInfo.cs
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.csproj.CoreCompileInputs.cache
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.dll
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\refint\iCalc.dll
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.pdb
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\iCalc.genruntimeconfig.cache
+E:\UPC\Repositorios\Csharp\iCalc\iCalc\obj\Debug\net8.0-windows\ref\iCalc.dll
